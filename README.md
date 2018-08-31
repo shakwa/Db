@@ -1,4 +1,4 @@
-##PDO Database Class
+## PDO Database Class
 
 A database class for PHP-MySQL which uses the PDO extension.
 
